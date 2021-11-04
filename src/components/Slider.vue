@@ -1,5 +1,5 @@
 <template>
-	  <section id="hero">
+<section id="hero">
     <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
 
       <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
@@ -21,8 +21,8 @@
         <div class="carousel-item" style="background-image: url(assets/slide/slide-2.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-              <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+              <h2 class="animate__animated animate__fadeInDown">JSK</h2>
+              <p class="animate__animated animate__fadeInUp">The Jump Start Kit (JSK) for WebCenter Portal is a utility that installs a fully functional version of WebCenter Portal pre-integrated with Oracle WebCenter Content, including key features enabled and preconfigured, all within a single machine instance (virtual or physical). The JSK supports Linux x86-64. It is targeted to developers or product evaluation only, and is not supported for production use.</p>
               <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
             </div>
           </div>
@@ -32,7 +32,7 @@
         <div class="carousel-item" style="background-image: url(assets/slide/slide-3.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
+              <h2 class="animate__animated animate__fadeInDown">JSK</h2>
               <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
               <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
             </div>

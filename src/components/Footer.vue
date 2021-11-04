@@ -1,5 +1,5 @@
 <template>
-	  <!-- ======= Footer ======= -->
+	<!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">
       <div class="container">
